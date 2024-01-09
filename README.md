@@ -13,5 +13,3 @@ In this repository, applying the VBA script to the stock data set will run throu
 ## Note
 
 * The VBA script is also provided in the word doc in case the .bas document does not open
-
-* The stock data is also provided as the file named 'Multiple_year_stock_data.xlsx' if anyone not from central grading stumbles upon this repository and would like to test the scripts for themselves
